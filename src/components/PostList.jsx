@@ -11,7 +11,8 @@ return (
             <hr/>
         </Fragment>    ))}
     </div>
-)}
+)
+}
 <Post
  title={Post.title}
  author={Post.author}
